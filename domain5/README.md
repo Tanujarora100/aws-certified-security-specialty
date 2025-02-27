@@ -98,7 +98,7 @@ https://docs.aws.amazon.com/kms/latest/developerguide/mrk-how-it-works.html
 
 8. **Use Cases**  
    - Delegating access to AWS services (e.g., S3, EBS) without modifying IAM policies.  
-   - Allowing temporary decryption access to an application or external user.  
+   - `Allowing temporary decryption access to an application or external user.`  
    - Restricting key usage to specific conditions via encryption context constraints.  
 
 9. **Grant vs. Key Policy vs. IAM Policy**  
